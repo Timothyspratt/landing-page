@@ -10,7 +10,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/timothyspratt",
     resume:
-      "https://docs.google.com/document/d/1PYdfX6gXxcUoA6sZOCImnvN_9pfxJwDC/edit?usp=drive_link&ouid=110728796872263001809&rtpof=true&sd=true",
+      "https://drive.google.com/file/d/1JewjWft0Y_K4QA_eF5Rt_iKai55Tou8W/view?usp=drive_link",
     linkedin: "https://www.linkedin.com/in/tim-spratt/",
   };
 
